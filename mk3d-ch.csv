@@ -1,2 +1,3 @@
-subject,key
-mk3d-0001,123456
+subject,key,expiration
+mk3d-0001,123456,28-03-2022
+mk3d-0002,123456,27-03-2022
